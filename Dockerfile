@@ -1,6 +1,6 @@
 FROM centos:centos6
 
-MAINTAINER dockeryama
+MAINTAINER CloudYama
 
 RUN yum update -y --nogpgcheck
 
